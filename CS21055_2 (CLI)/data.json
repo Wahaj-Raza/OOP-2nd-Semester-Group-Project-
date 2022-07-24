@@ -1,0 +1,129 @@
+{
+    "0": {
+        "username": "a",
+        "password": "1",
+        "email_address": "a1@gmail.com",
+        "address": "somewhere",
+        "gender": "Female",
+        "mobile_no": "33333333333",
+        "birth_date": "12/03/2003",
+        "cart": [],
+        "history": []
+    },
+    "1": {
+        "username": "wa",
+        "password": "aa",
+        "email_address": "w@gmail.com",
+        "address": "house",
+        "gender": "Male",
+        "mobile_no": "12122121222",
+        "birth_date": "06/06/2006",
+        "cart": [],
+        "history": []
+    },
+    "2": {
+        "username": "Wahaj",
+        "password": "123",
+        "email_address": "w@gmail.com",
+        "address": "abc road",
+        "gender": "Male",
+        "mobile_no": "23232323232",
+        "birth_date": "22/12/2022",
+        "cart": [],
+        "history": []
+    },
+    "3": {
+        "username": "aaa",
+        "password": "aaa",
+        "email_address": "aa@gmail.com",
+        "address": "a",
+        "gender": "Male",
+        "mobile_no": "23232323232",
+        "birth_date": "22/12/2022",
+        "cart": [],
+        "history": []
+    },
+    "4": {
+        "username": "www",
+        "password": "www",
+        "email_address": "www@gmail.com",
+        "address": "www",
+        "gender": "Male",
+        "mobile_no": "12121212121",
+        "birth_date": "22/12/2022",
+        "cart": [],
+        "history": []
+    },
+    "5": {
+        "username": "sss",
+        "password": "sss",
+        "email_address": "ss@gmail.com",
+        "address": "ss",
+        "gender": "Male",
+        "mobile_no": "33333333333",
+        "birth_date": "22/12/2022",
+        "cart": [],
+        "history": []
+    },
+    "6": {
+        "username": "Aqsa",
+        "password": "ihatened",
+        "email_address": "aqsahatesned@gmail.com",
+        "address": "another dimension",
+        "gender": "Female",
+        "mobile_no": "12345678910",
+        "birth_date": "12/12/2002",
+        "cart": [],
+        "history": []
+    },
+    "7": {
+        "username": "blah",
+        "password": "blah",
+        "email_address": "blah@gmail.com",
+        "address": "blahblah",
+        "gender": "Female",
+        "mobile_no": "12121212121",
+        "birth_date": "12/12/2001",
+        "cart": [],
+        "history": []
+    },
+    "8": {
+        "username": "oop",
+        "password": "123",
+        "email_address": "oop@gmail.com",
+        "address": "abc",
+        "gender": "Male",
+        "mobile_no": "03312155591",
+        "birth_date": "12/12/2000",
+        "cart": [],
+        "history": [
+            {
+                "id": 65,
+                "name": "CLASSICAL",
+                "price": 5800,
+                "category": "MUSIC",
+                "subcategory": "COMICS",
+                "quantity": 2,
+                "date_of_purchase": "2022-07-24 21:42:41.361675"
+            },
+            {
+                "id": 64,
+                "name": "POP",
+                "price": 6700,
+                "category": "MUSIC",
+                "subcategory": "COMICS",
+                "quantity": 1,
+                "date_of_purchase": "2022-07-24 21:42:56.238586"
+            },
+            {
+                "id": 63,
+                "name": "ROCK",
+                "price": 4900,
+                "category": "MUSIC",
+                "subcategory": "COMICS",
+                "quantity": 1,
+                "date_of_purchase": "2022-07-24 23:05:30.801277"
+            }
+        ]
+    }
+}
